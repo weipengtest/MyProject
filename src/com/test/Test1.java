@@ -4,7 +4,7 @@ package com.test;
 public class Test1 {
 	//weipeng003
 	private String a;
-	//weipeng003
+
 	private String b;
 	
 	public String getA() {
@@ -13,5 +13,13 @@ public class Test1 {
 
 	public void setA(String a) {
 		this.a = a;
+	}
+
+	public String getB() {
+		return b;
+	}
+
+	public void setB(String b) {
+		this.b = b;
 	}
 }
