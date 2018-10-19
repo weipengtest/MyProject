@@ -8,6 +8,8 @@ public class Test1 {
 	//weipeng003
 	private String d;
 	//weipeng003
+	private String c;
+	//weipeng003
 	public String getA() {
 		return a;
 	}
@@ -28,5 +30,11 @@ public class Test1 {
 	}
 	public void setD(String d) {
 		this.d = d;
+	}
+	public String getC() {
+		return c;
+	}
+	public void setC(String c) {
+		this.c = c;
 	}
 }
