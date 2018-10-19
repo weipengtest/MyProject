@@ -1,12 +1,8 @@
-
 package com.test;
 
-public class Test1 {
-	//weipeng003
+public class Test2 {
 	private String a;
-	//weipeng003
-	private String b;
-	
+
 	public String getA() {
 		return a;
 	}
