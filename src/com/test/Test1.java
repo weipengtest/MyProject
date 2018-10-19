@@ -7,6 +7,8 @@ public class Test1 {
 	//weipeng003
 	private String b;
 	//weipeng003
+	private String c;
+	//weipeng003
 	public String getA() {
 		return a;
 	}
@@ -21,5 +23,11 @@ public class Test1 {
 	//weipeng003
 	public void setB(String b) {
 		this.b = b;
+	}
+	public String getC() {
+		return c;
+	}
+	public void setC(String c) {
+		this.c = c;
 	}
 }
